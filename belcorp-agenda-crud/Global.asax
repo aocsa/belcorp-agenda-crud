@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="belcorp_agenda_crud.MvcApplication" Language="C#" %>
